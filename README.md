@@ -6,7 +6,7 @@ It’s free and opensource. It permits you to go to Common Voice web site ([voic
 
 You can choose the language too. It’ll get automatically the UI language as default, but you can change always.
 
-### Functionalities
+### Features
 
 It shows two buttons, the first one is to go to “Speak” section, while the second one in “Listen” section.
 
