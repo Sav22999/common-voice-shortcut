@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "Common Voice Shortcut",
+    "version": "3.0",
+  
+    "description": "It permits you, just with one click, to go to voice.mozilla.org and contribuite to the project.",
+  
+    "icons": {
+      "48": "./img/icon.png"
+    },
+
+    "applications": {
+        "gecko": {
+          "id": "commonvoice@saveriomorelli.com"
+        }
+      },
+  
+    "browser_action": {
+        "default_icon": "./img/icon.png",
+        "default_title": "Common Voice Shortcut",
+        "default_popup": "./commonvoice.html"
+      }
+  
+  }
